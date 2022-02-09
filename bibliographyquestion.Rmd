@@ -1,0 +1,9 @@
+---
+title: "bibliographyquestion"
+output: 
+    bookdown::word_document2
+bibliography: references.bib
+csl: "the-company-of-biologists.csl"
+---
+
+[@R-pracma]
